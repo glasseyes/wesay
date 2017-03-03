@@ -25,7 +25,6 @@ namespace WeSay.Data.Tests
 			_listChangedEventArgs = e;
 		}
 
-		[TestFixtureSetUp]
 		public virtual void TestFixtureSetUp() {}
 
 		[SetUp]

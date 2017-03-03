@@ -9,7 +9,6 @@ namespace WeSay.Data.Tests
 		protected ICollection _collection;
 		protected int _itemCount;
 
-		[TestFixtureSetUp]
 		public virtual void TestFixtureSetUp() {}
 
 		[SetUp]

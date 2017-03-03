@@ -13,7 +13,6 @@ namespace WeSay.Data.Tests
 		protected IEnumerable _enumerable;
 		protected int _itemCount;
 
-		[TestFixtureSetUp]
 		public virtual void TestFixtureSetUp() {}
 
 		[SetUp]
